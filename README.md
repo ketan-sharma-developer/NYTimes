@@ -1,5 +1,5 @@
 <snippet>
-  <content>
+  <content><
 # NYTimes
 This is project was built in Android Studio using Java.  The app lists the current and most popular new stories from the New York Times popular API, in a RecylerView.
 ## Installation
@@ -16,6 +16,6 @@ Version 1
 
 ## Credits
 Ketan Sharma (ketan.sharma.developer@gmail.com)
-</content>
+></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
