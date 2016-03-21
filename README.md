@@ -16,6 +16,6 @@ Version 1
 
 ## Credits
 Ketan Sharma (ketan.sharma.developer@gmail.com)
-></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
