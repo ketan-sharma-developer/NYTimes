@@ -10,10 +10,12 @@ Install the application by opening the project in Android Studio and running it 
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+ 
 ## History
 Version 1
+
 ## Credits
 Ketan Sharma (ketan.sharma.developer@gmail.com)
-]]></content>
+></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
