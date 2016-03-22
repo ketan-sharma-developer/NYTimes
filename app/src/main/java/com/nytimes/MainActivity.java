@@ -1,4 +1,4 @@
-package com.candyspace.nytimes;
+package com.nytimes;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,10 +6,10 @@ import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 
-import com.candyspace.nytimes.api.Article;
-import com.candyspace.nytimes.api.MostPopularApi;
-import com.candyspace.nytimes.api.RetrofitMostPopularApi;
-import com.candyspace.nytimes.hero.HeroArticles;
+import com.nytimes.api.Article;
+import com.nytimes.api.MostPopularApi;
+import com.nytimes.api.RetrofitMostPopularApi;
+import com.nytimes.hero.HeroArticles;
 
 import java.util.List;
 

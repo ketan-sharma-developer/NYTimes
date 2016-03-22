@@ -1,6 +1,6 @@
-package com.candyspace.nytimes.model;
+package com.nytimes.model;
 
-import com.candyspace.nytimes.api.Article;
+import com.nytimes.api.Article;
 
 import org.junit.Before;
 import org.junit.Test;

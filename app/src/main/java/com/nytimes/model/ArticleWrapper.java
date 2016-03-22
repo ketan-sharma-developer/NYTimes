@@ -1,8 +1,8 @@
-package com.candyspace.nytimes.model;
+package com.nytimes.model;
 
 import android.support.annotation.Nullable;
 
-import com.candyspace.nytimes.api.Article;
+import com.nytimes.api.Article;
 
 import java.util.List;
 

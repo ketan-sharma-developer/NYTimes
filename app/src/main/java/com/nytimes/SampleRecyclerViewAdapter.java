@@ -1,4 +1,4 @@
-package com.candyspace.nytimes;
+package com.nytimes;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -7,8 +7,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.candyspace.nytimes.api.Article;
-import com.candyspace.nytimes.model.ArticleWrapper;
+import com.nytimes.api.Article;
+import com.nytimes.model.ArticleWrapper;
 import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 import java.util.List;

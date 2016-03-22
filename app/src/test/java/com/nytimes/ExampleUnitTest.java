@@ -1,4 +1,4 @@
-package com.candyspace.nytimes;
+package com.nytimes;
 
 import org.junit.Test;
 

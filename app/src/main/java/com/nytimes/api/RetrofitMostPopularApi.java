@@ -1,4 +1,4 @@
-package com.candyspace.nytimes.api;
+package com.nytimes.api;
 
 
 import com.google.gson.Gson;

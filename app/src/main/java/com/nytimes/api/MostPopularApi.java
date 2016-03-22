@@ -1,4 +1,4 @@
-package com.candyspace.nytimes.api;
+package com.nytimes.api;
 
 import java.util.List;
 

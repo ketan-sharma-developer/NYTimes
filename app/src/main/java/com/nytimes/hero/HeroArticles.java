@@ -1,6 +1,6 @@
-package com.candyspace.nytimes.hero;
+package com.nytimes.hero;
 
-import com.candyspace.nytimes.api.Article;
+import com.nytimes.api.Article;
 
 import java.util.ArrayList;
 import java.util.Iterator;
